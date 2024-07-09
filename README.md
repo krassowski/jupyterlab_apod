@@ -1,6 +1,8 @@
 # jupyterlab_apod
 
-[![Github Actions Status](https://github.com/jupyterlab/jupyterlab_apod/workflows/Build/badge.svg)](https://github.com/jupyterlab/jupyterlab_apod/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab_apod/main?urlpath=lab)
+[![Github Actions Status](https://github.com/jupyterlab/jupyterlab_apod/workflows/Build/badge.svg)](https://github.com/github_username/jupyterlab_apod/actions/workflows/build.yml)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab_apod/main?urlpath=lab)
+
 Show a random NASA Astronomy Picture of the Day in a JupyterLab panel.
 
 ## Requirements
@@ -86,7 +88,7 @@ jlpm test
 
 #### Integration tests
 
-This extension uses [Playwright](https://playwright.dev/docs/intro/) for the integration tests (aka user level tests).
+This extension uses [Playwright](https://playwright.dev/docs/intro) for the integration tests (aka user level tests).
 More precisely, the JupyterLab helper [Galata](https://github.com/jupyterlab/jupyterlab/tree/master/galata) is used to handle testing the extension in JupyterLab.
 
 More information are provided within the [ui-tests](./ui-tests/README.md) README.
