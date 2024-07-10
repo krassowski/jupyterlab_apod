@@ -1,6 +1,6 @@
 # jupyterlab_apod
 
-[![Github Actions Status](https://github.com/jupyterlab/jupyterlab_apod/workflows/Build/badge.svg)](https://github.com/github_username/jupyterlab_apod/actions/workflows/build.yml)
+[![Github Actions Status](https://github.com/jupyterlab/jupyterlab_apod/workflows/Build/badge.svg)](https://github.com/jupyterlab/jupyterlab_apod/actions/workflows/build.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab_apod/main?urlpath=lab)
 
 Show a random NASA Astronomy Picture of the Day in a JupyterLab panel.
